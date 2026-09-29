@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(209, 203, 169)
+}
+h1{
+    color:red;
+    font-size:39px;
+    font-family: Georgia;
+}
+p{
+    background-color:rgb(147, 110, 181);
+    color:chartreuse;
+    font-size:23px;
+    font-family:'Gill Sans MT';
+    text-decoration-style:wavy;
+    font-weight:bolder;
+
+}
+#item1{
+    text-decoration:underline;
+    color:darkblue;
+}
+#link1{
+    color:black;
+    font-size:25px;
+}
+.playwrite-be-wal-guides-regular {
+  font-family: "Playwrite BE WAL Guides", cursive;
+  font-weight:bolder;
+  font-style: normal;
+}
+.monsieur-la-doulaise-regular {
+  font-family: "Monsieur La Doulaise", cursive;
+  font-weight:bolder;
+  font-style: normal;
+  font-size:45px;
+}
+.imperial-script-regular {
+  font-family: "Imperial Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:32px;
+  background-color:gray;
+  color:gold
+}
+
+
+

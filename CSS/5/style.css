@@ -1,0 +1,15 @@
+body{
+    background-color: lightpink;
+    
+}
+h2{background-color:brown;
+color:aqua;
+width:400px;
+padding:28px;
+}
+
+p{background-color:indigo;
+color:yellow;
+width:400px;
+padding:18px;
+box-sizing: border-box}

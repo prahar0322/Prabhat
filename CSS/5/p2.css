@@ -1,0 +1,42 @@
+body{
+    background-color:black;
+    margin:0px
+}
+#Item-1{
+    background-color:skyblue;
+    color:yellow;
+    height:100px;
+    width:100px;
+    padding: 25px;
+    border-width:3px;
+    border-color:brown;
+    border-style:dashed;
+    margin:50px auto 50px auto;
+
+}
+#Item-2{
+    background-color:red;
+    height:100px;
+    width:100px;
+    margin-top:40px;
+    border-width:13px;
+    border-color:darkgreen;
+    border-style:groove;
+    margin-left:auto;
+    margin-right:auto;
+   
+    box-sizing:border-box
+}   
+#Item-3{
+    background-color:darkturquoise;
+    color:Black;
+    height:150px;
+    width:150px;
+    padding-top:20px;
+    padding-left:15px;
+    padding-right:30px;
+    padding-bottom:10px;
+   margin:30px auto;
+}
+
+    
